@@ -61,7 +61,8 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:id="@+id/tvCategories"
-            tools:text="Burgers, Fast Food" />
+            tools:text="Burgers, Fast Food"
+            android:textSize="14sp" />
 
 
     </LinearLayout>

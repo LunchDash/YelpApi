@@ -1,4 +1,4 @@
-package com.food.yelpapi;
+package com.food.yelpapi.activities;
 
 import android.os.AsyncTask;
 import android.os.Bundle;
@@ -11,6 +11,7 @@ import android.widget.ListView;
 
 import com.food.yelpapi.APIs.Keys;
 import com.food.yelpapi.APIs.YelpAPI;
+import com.food.yelpapi.R;
 import com.food.yelpapi.adapters.RestaurantsArrayAdapter;
 import com.food.yelpapi.models.Restaurant;
 

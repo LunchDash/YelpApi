@@ -45,9 +45,9 @@ public class RestaurantsArrayAdapter extends ArrayAdapter<Restaurant> {
         String[][] categoryArray = restaurant.getCategories();
         String categories = "";
         for (int i = 0; i < categoryArray.length; i++) {
-            categories = categoryArray[i][0];
+            categories += categoryArray[i][0];
             if (i != categoryArray.length - 1) { //If it's not the last item, add a comma.
-                categories += ",";
+                categories += ", ";
             }
         }
         tvCategories.setText(categories);

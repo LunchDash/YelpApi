@@ -2,46 +2,46 @@
 <items version="2" >
 
     <item
+        jar="C:\Users\atu\AndroidStudioProjects\YelpApi\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\atu\AndroidStudioProjects\YelpApi\app\build\intermediates\pre-dexed\debug\classes-eeaefb46d12de368e74ea8bc829015b2471b75d3.jar" />
+    </item>
+    <item
         jar="C:\Program Files\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
-        <dex dex="C:\Users\L33t\AndroidStudioProjects\YelpAPI\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-80cc5eb0c41746e4fbb315aad6b444e26923863d.jar" />
+        <dex dex="C:\Users\atu\AndroidStudioProjects\YelpApi\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-80cc5eb0c41746e4fbb315aad6b444e26923863d.jar" />
     </item>
     <item
-        jar="C:\Users\L33t\AndroidStudioProjects\YelpAPI\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
-        <dex dex="C:\Users\L33t\AndroidStudioProjects\YelpAPI\app\build\intermediates\pre-dexed\debug\classes-0c5224ed0639f36171f2260a7f3e5aae1b621b81.jar" />
-    </item>
-    <item
-        jar="C:\Users\L33t\AndroidStudioProjects\YelpAPI\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
-        <dex dex="C:\Users\L33t\AndroidStudioProjects\YelpAPI\app\build\intermediates\pre-dexed\debug\classes-f5db2bdeceb19a403bffe337a5805b7fdd0601a8.jar" />
-    </item>
-    <item
-        jar="C:\Users\L33t\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.4.0\f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2\picasso-2.4.0.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2">
-        <dex dex="C:\Users\L33t\AndroidStudioProjects\YelpAPI\app\build\intermediates\pre-dexed\debug\picasso-2.4.0-57ffe32c20d4970c5bc426a32848fead1f1e54f5.jar" />
-    </item>
-    <item
-        jar="C:\Users\L33t\.gradle\caches\modules-2\files-2.1\org.scribe\scribe\1.3.6\b726b1e6f6c77177fe3cf968c92c9211da446b4\scribe-1.3.6.jar"
+        jar="C:\Users\atu\.gradle\caches\modules-2\files-2.1\org.scribe\scribe\1.3.6\b726b1e6f6c77177fe3cf968c92c9211da446b4\scribe-1.3.6.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="0b726b1e6f6c77177fe3cf968c92c9211da446b4">
-        <dex dex="C:\Users\L33t\AndroidStudioProjects\YelpAPI\app\build\intermediates\pre-dexed\debug\scribe-1.3.6-678e143b3674eeb1e119683421f460c85028187a.jar" />
+        <dex dex="C:\Users\atu\AndroidStudioProjects\YelpApi\app\build\intermediates\pre-dexed\debug\scribe-1.3.6-95427783114bfed5dec0c24591115ce3ec084b9d.jar" />
     </item>
     <item
-        jar="C:\Users\L33t\AndroidStudioProjects\YelpAPI\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jar="C:\Users\atu\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.4.0\f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2\picasso-2.4.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2">
+        <dex dex="C:\Users\atu\AndroidStudioProjects\YelpApi\app\build\intermediates\pre-dexed\debug\picasso-2.4.0-99742337a7c1ed67f973d22c50b233de5b582152.jar" />
+    </item>
+    <item
+        jar="C:\Users\atu\AndroidStudioProjects\YelpApi\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\atu\AndroidStudioProjects\YelpApi\app\build\intermediates\pre-dexed\debug\classes-9e2db81dafd68293788dd2fc8997eb19c18d8575.jar" />
+    </item>
+    <item
+        jar="C:\Users\atu\AndroidStudioProjects\YelpApi\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
-        <dex dex="C:\Users\L33t\AndroidStudioProjects\YelpAPI\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-f5f89506f2c74926be9e92bdacd9e73d75c07fcf.jar" />
+        <dex dex="C:\Users\atu\AndroidStudioProjects\YelpApi\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-f243745c00125cc0b6a609ccd4bb9d4c3f83bd83.jar" />
     </item>
 
 </items>
